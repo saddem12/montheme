@@ -1,0 +1,16 @@
+{
+    "name": "saddem12/SaddemDhriffaTheme",
+    "description": "Mon theme pour le test",
+    "keywords": ["wordpress", "theme"],
+    "homepage": "https://github.com/saddem12/SaddemDhriffaTheme",
+    "authors": [{
+        "name": "Saddem Theme",
+        "homepage": "https://github.com/saddem12/SaddemDhriffaTheme"
+    }],
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">5.6"
+
+    }
+
+}
